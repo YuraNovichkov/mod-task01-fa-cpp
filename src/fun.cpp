@@ -1,4 +1,5 @@
 #include <fun.h>
+#include <math.h>
 
 unsigned int faStr1(const char* str)
 {
